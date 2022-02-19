@@ -1,0 +1,1 @@
+This is an example of how using if statements properly can easily make your code finish faster.
